@@ -1,1 +1,4 @@
-# Weather Board is the course assignment.
+# Weather Board 
+This is the course assignment and it fully focus on css animation.
+
+![Screenshot]()
