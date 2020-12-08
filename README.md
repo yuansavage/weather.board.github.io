@@ -1,1 +1,1 @@
-# test.io
+# Weather Board is the course assignment.
