@@ -8,3 +8,6 @@ And I try to use my own DNS in this project.
 ## Description
 1. Hover the board and it will show the full content of the weather board
 2. When the pointer move to the top of the board, it will show the temperature line chart of each day of the week.
+
+## Inspired
+* Hahow - 動態互動網頁程式入門(HTML)
