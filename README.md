@@ -3,6 +3,9 @@ Weather Board
 This is the course assignment and it fully focus on CSS animation.
 And I try to use my own DNS in this project.
 
+## link
+https://yuansavage.github.io/weather.board.github.io/
+
 ![gif](https://i.imgur.com/OftW7Xy.gif)
 
 ## Description
